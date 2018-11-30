@@ -1,0 +1,7 @@
+D:\DoAnCK\BUS\bin\Debug\BUS.dll
+D:\DoAnCK\BUS\bin\Debug\BUS.pdb
+D:\DoAnCK\BUS\bin\Debug\DAO.dll
+D:\DoAnCK\BUS\bin\Debug\DAO.pdb
+D:\DoAnCK\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\DoAnCK\BUS\obj\Debug\BUS.dll
+D:\DoAnCK\BUS\obj\Debug\BUS.pdb

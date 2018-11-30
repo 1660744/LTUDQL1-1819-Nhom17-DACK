@@ -1,4 +1,4 @@
-use master
+﻿use master
 go
 if db_id('qlvx') is not null
 	drop database qlvx
@@ -113,10 +113,12 @@ foreign key(Chuyen_ID_Chuyen) references Chuyen,
 foreign key(KhachHang_ID_KhachHang) references KhachHang
 )
 
+go
+--------Store Procedure---------
 
-
-
-
-
-
-
+--Proc kiểm tra người mua vé có tồn tại trong CSDL hay ko
+CREATE PROCEDURE sp_KiemTraKH @hoten nvarchar(4000)
+AS
+BEGIN
+	SELECT * FROM KhachHang WHERE @hoten like HoTen
+END

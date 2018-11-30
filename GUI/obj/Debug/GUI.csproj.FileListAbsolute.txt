@@ -1,0 +1,16 @@
+D:\DoAnCK\GUI\bin\Debug\GUI.exe.config
+D:\DoAnCK\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\DoAnCK\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DoAnCK\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\DoAnCK\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\DoAnCK\GUI\bin\Debug\GUI.exe
+D:\DoAnCK\GUI\bin\Debug\GUI.pdb
+D:\DoAnCK\GUI\bin\Debug\BUS.dll
+D:\DoAnCK\GUI\bin\Debug\DAO.dll
+D:\DoAnCK\GUI\bin\Debug\BUS.pdb
+D:\DoAnCK\GUI\bin\Debug\DAO.pdb
+D:\DoAnCK\GUI\obj\Debug\GUI.exe
+D:\DoAnCK\GUI\obj\Debug\GUI.pdb
+F:\New folder\LTUDQL1-1819-Nhom17-DACK\GUI\bin\Debug\GUI.exe.config
+F:\New folder\LTUDQL1-1819-Nhom17-DACK\GUI\obj\Debug\GUI.exe
+F:\New folder\LTUDQL1-1819-Nhom17-DACK\GUI\obj\Debug\GUI.pdb

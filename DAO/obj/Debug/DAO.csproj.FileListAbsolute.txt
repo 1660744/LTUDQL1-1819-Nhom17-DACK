@@ -1,0 +1,5 @@
+D:\DoAnCK\DAO\bin\Debug\DAO.dll
+D:\DoAnCK\DAO\bin\Debug\DAO.pdb
+D:\DoAnCK\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\DoAnCK\DAO\obj\Debug\DAO.dll
+D:\DoAnCK\DAO\obj\Debug\DAO.pdb
