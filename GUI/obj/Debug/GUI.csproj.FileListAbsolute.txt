@@ -2,7 +2,10 @@ D:\DoAnCK\GUI\bin\Debug\GUI.exe.config
 D:\DoAnCK\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
 D:\DoAnCK\GUI\obj\Debug\GUI.Properties.Resources.resources
 D:\DoAnCK\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+<<<<<<< HEAD
+=======
 D:\DoAnCK\GUI\obj\Debug\GUI.frmKhachHang.resources
+>>>>>>> 24fb77a71b216a80673efc55a134eb710e46a298
 D:\DoAnCK\GUI\bin\Debug\GUI.exe
 D:\DoAnCK\GUI\bin\Debug\GUI.pdb
 D:\DoAnCK\GUI\bin\Debug\BUS.dll
@@ -11,6 +14,14 @@ D:\DoAnCK\GUI\bin\Debug\BUS.pdb
 D:\DoAnCK\GUI\bin\Debug\DAO.pdb
 D:\DoAnCK\GUI\obj\Debug\GUI.exe
 D:\DoAnCK\GUI\obj\Debug\GUI.pdb
+<<<<<<< HEAD
+D:\DoAnCK\GUI\bin\Debug\DTO.dll
+D:\DoAnCK\GUI\bin\Debug\DTO.pdb
+D:\DoAnCK\GUI\obj\Debug\GUI.frmTramTrungGian.resources
+D:\DoAnCK\GUI\obj\Debug\GUI.frmAdmin.resources
+D:\DoAnCK\GUI\obj\Debug\GUI.frmLogin.resources
+=======
 F:\New folder\LTUDQL1-1819-Nhom17-DACK\GUI\bin\Debug\GUI.exe.config
 F:\New folder\LTUDQL1-1819-Nhom17-DACK\GUI\obj\Debug\GUI.exe
 F:\New folder\LTUDQL1-1819-Nhom17-DACK\GUI\obj\Debug\GUI.pdb
+>>>>>>> 24fb77a71b216a80673efc55a134eb710e46a298

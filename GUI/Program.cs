@@ -16,7 +16,11 @@ namespace GUI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
+            Application.Run(new frmAdmin());
+=======
             Application.Run(new frmKhachHang());
+>>>>>>> 24fb77a71b216a80673efc55a134eb710e46a298
         }
     }
 }
