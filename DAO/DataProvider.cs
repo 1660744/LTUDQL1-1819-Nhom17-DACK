@@ -70,7 +70,11 @@ namespace DAO
             return data;
         }
 
+<<<<<<< HEAD
+        public static int ExecuteNonQuery(string query, object[] parameter = null)//Sử dụng khi thêm xóa sửa
+=======
         public int ExecuteNonQuery(string query, object[] parameter = null)//Sử dụng khi thêm xóa sửa
+>>>>>>> 24fb77a71b216a80673efc55a134eb710e46a298
         {
             int data = 0;
 

@@ -41,9 +41,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+    <Compile Include="DAO_ChuyenXe.cs" />
+    <Compile Include="DAO_KhachHang.cs" />
+    <Compile Include="DAO_LoaiXe.cs" />
+    <Compile Include="DAO_TaiXe.cs" />
+    <Compile Include="DAO_Tram.cs" />
+    <Compile Include="DAO_Xe.cs" />
+    <Compile Include="DataProvider.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DAO_TuyenXe.cs" />
+    <Compile Include="DAO_TramTrungGian.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{cc16dd2d-d643-40aa-9108-83445501419f}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+=======
     <Compile Include="DAO_KhachHang.cs" />
     <Compile Include="DataProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+>>>>>>> 24fb77a71b216a80673efc55a134eb710e46a298
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
