@@ -18,3 +18,6 @@ MSSV: 1660313
 Tên: Võ Thị Kim Loan
 Email:
 SĐT:
+
+Mô tả: phần mềm quản lý xe khách
+Công cụ: MVC, C#, Winform
